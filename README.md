@@ -2,8 +2,11 @@
 
 
 <body> In this lab, I used Nessus vulnerability scanner to identify vulnerabilities on my home network and assess the risks associated with each vulnerability. I conducted a host discovery scan and a basic network scan. While the host discovery scam came back as expected i was able to locate unkown vulnerabilities during my basic network scan.
-Nessus is a popular vulnerability scanner that can be used to scan and identify vulnerabilities in a network, including servers, workstations, and 
-other devices connected to the network. Some things i was able to also practice within this lab include:
+Nessus is a popular vulnerability scanner that can be used to scan and identify vulnerabilities in a network, including servers, workstations, and other devices connected to the network.
+
+ Key Contributions:
+
+○ Assessed my home networks vulnerabilities
 
 ○ Created and ran multple Nessus scans
 
